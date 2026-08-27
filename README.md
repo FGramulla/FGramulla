@@ -65,7 +65,7 @@
   <h2>⚡ GitHub & Contribuciones</h2>
   <br>
   <p>¡Visita mis repositorios para ver el código completo de mis proyectos y trabajos prácticos!</p>
-  <a href="https://github.com/FGramulla" target="_blank">
+  <a href="https://github.com/FGramulla](https://github.com/FGramulla?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FGramulla-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub">
   </a>
 </div>
