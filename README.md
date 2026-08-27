@@ -62,7 +62,7 @@
 <div align="center">
   <h2>📊 Estadísticas de GitHub</h2>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=franco-gramulla-bridarolli-802a20243&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FGramulla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franco-gramulla-bridarolli-802a20243&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FGramulla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
