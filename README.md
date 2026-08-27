@@ -12,11 +12,12 @@
   <h3>🚀 Apasionado por crear experiencias web interactivas, limpias y responsivas.</h3>
   <p>Con formación integral en desarrollo full-stack y especialización en frontend, combinando código eficiente con bases de diseño.</p>
 
+  <!-- Botones de contacto -->
   <a href="https://www.linkedin.com/in/franco-gramulla-bridarolli-802a20243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:fgramulla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
