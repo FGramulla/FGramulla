@@ -42,6 +42,7 @@
       <td align="center" width="33%" valign="top">
         <h3>⚙️ Backend & DB</h3>
         <p>
+          <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><br><br>
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"><br><br>
           <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
         </p>
@@ -67,14 +68,4 @@
   <a href="https://github.com/FGramulla" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-FGramulla-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub">
   </a>
-</div>
-
----
-
-<div align="center">
-  <h2>📊 Estadísticas de GitHub</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=FGramulla&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FGramulla&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
