@@ -9,7 +9,6 @@
     <td width="60%" valign="middle">
       <h3>🚀 Apasionado por crear experiencias web interactivas.</h3>
       <p>Con formación integral en desarrollo full-stack y especialización en frontend, combinando código eficiente con bases de diseño.</p>
-      
       <a href="https://www.linkedin.com/in/franco-gramulla-bridarolli-802a20243/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>&nbsp;
