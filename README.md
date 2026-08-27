@@ -29,7 +29,7 @@
 
   <table align="center" border="0">
     <tr>
-      <td align="center" width="33%" valign="top" style="padding-left: 20px; padding-right: 20px;">
+      <td align="center" width="33%" valign="top">
         <h3>💻 Frontend</h3>
         <p>
           <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br><br>
@@ -39,7 +39,7 @@
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
         </p>
       </td>
-      <td align="center" width="33%" valign="top" style="padding-left: 20px; padding-right: 20px;">
+      <td align="center" width="33%" valign="top">
         <h3>⚙️ Backend & DB</h3>
         <p>
           <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"><br><br>
@@ -47,7 +47,7 @@
           <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
         </p>
       </td>
-      <td align="center" width="33%" valign="top" style="padding-left: 20px; padding-right: 20px;">
+      <td align="center" width="33%" valign="top">
         <h3>🎨 Diseño & Git</h3>
         <p>
           <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><br><br>
