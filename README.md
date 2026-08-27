@@ -1,47 +1,56 @@
 <div align="center">
-  <h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
-  <h3>🚀 Frontend Developer | Certified Tech Developer (Digital House)</h3>
-  
-  <p>
-    Apasionado por transformar diseños en interfaces web modernas, limpias, accesibles y altamente responsivas.<br>
-    Actualmente enfocado en el desarrollo con JavaScript y React.
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:tu-correo@email.com">
-      <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=¡Hola%2C+mundo!+👋;Soy+Franco+Gramulla;Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🛠️ Stack Tecnológico
+<div align="center">
+  <h3>🚀 Apasionado por crear experiencias web interactivas, limpias y responsivas.</h3>
+  <p>Con formación integral en desarrollo full-stack y especialización en frontend, combinando código eficiente con bases de diseño.</p>
 
+  <!-- Botones de contacto -->
+  <a href="https://www.linkedin.com/in/franco-gramulla-bridarolli-802a20243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:fgramulla@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ Stack Tecnológico y Herramientas</h2>
+</div>
+
+### 💻 Desarrollo Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</div>
+
+### ⚙️ Backend y Bases de Datos
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+</div>
+
+### 🎨 Diseño y Control de Versiones
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
 ---
 
-### 💼 Proyectos Destacados
-
-*   **[Nombre del Proyecto 1](https://github.com/tu-usuario/nombre-repo-1)** — Aplicación web interactiva desarrollada con React y consumiendo una API externa. Cuenta con diseño responsivo y gestión de estado. *(Demo en vivo disponible)*
-*   **[Nombre del Proyecto 2](https://github.com/tu-usuario/nombre-repo-2)** — E-commerce simulado enfocado en la experiencia de usuario, carrito de compras funcional y buenas prácticas de maquetación con CSS/Tailwind. *(Demo en vivo disponible)*
-
----
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <h2>📊 Estadísticas de GitHub</h2>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=franco-gramulla-bridarolli-802a20243&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=franco-gramulla-bridarolli-802a20243&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
