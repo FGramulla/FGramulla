@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:fgramulla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -56,6 +56,17 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>⚡ GitHub & Contribuciones</h2>
+  <br>
+  <p>¡Visita mis repositorios para ver el código completo de mis proyectos y trabajos prácticos!</p>
+  <a href="https://github.com/FGramulla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FGramulla-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub">
+  </a>
 </div>
 
 ---
